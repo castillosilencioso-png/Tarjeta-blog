@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    background-color: hsl(47, 88%, 63%);
+}
+
+.container{
+    background-color: hsl(0, 0%, 100%);
+    width: 380px;
+    height: 560px;
+    margin: auto;
+    margin-top: 100px;
+    border: 1px solid black;
+    border-radius: 15px;
+    display: flex;
+	flex-wrap: wrap;
+    justify-content: center;
+    box-shadow: 10px 10px black;
+}
+
+.baner{
+    margin-top: 20px;
+	margin-bottom: 0;
+}
+
+img{
+	border-radius: 15px;
+	margin: 0;
+}
+
+.texto-de-blog{
+margin-right: 30px;
+margin-top: 0px;
+ma
+}
+
+.texto-de-blog h3{
+ background-color: hsl(47, 88%, 63%);
+ padding: 5px 10px;
+ border-radius: 5px;
+ width: 70px;
+}
+
+h2{
+	font-size: 14px;
+	font-family: italic;
+}
+
+ h1{
+	font-size: 26px;
+	color:  hsl(47, 88%, 63%);
+ }
+ 
+ p{
+	color: gray;
+	font-weight: bold;
+ }
+ 
+ .mini-perfil{
+	order:
+ }
+ 
+ .info-name{
+	
+ }
+.info-usuario{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start ;
+	margin-right: 180px;
+}
+
+.
